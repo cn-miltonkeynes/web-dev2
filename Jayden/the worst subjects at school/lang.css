@@ -1,0 +1,34 @@
+h1{
+    font-size:40px;
+    color:rgb(119, 255, 0)
+}
+body {
+    background-color: rgb(223, 129, 7);
+}
+#bp{
+    color: blue;
+}
+
+#bp1{
+    color: darkviolet;
+}
+
+#bp2{
+    color: rgb(209, 0, 150);
+}
+
+#bp3{
+    color: rgb(0, 55, 255);
+}
+
+#bp4{
+    color: lime;
+}
+
+h2{
+    color: rgb(133, 3, 3);
+}
+
+#yt{
+    color: blue;
+}

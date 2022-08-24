@@ -1,0 +1,28 @@
+h1{
+    font-size:40px;
+    color:rgb(0, 255, 255)
+}
+body {
+    background-color: rgb(223, 129, 7);
+}
+
+#r {
+    color: blue;
+}
+
+#r1{
+    color: lawngreen;
+}
+
+#r2{
+    color: darkviolet;
+}
+
+#r3{
+    color: navy;
+}
+
+#r4{
+    color: brown;
+    font-family:  'Arial ';
+}
